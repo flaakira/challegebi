@@ -8,4 +8,4 @@ Link para o Dashboard do primeiro desafio - filmes IMDB
 
 Power BI dashboard
 
-https://app.powerbi.com/groups/me/reports/ead414cb-253e-4d92-a8ca-b22aa80f67e4/ReportSectionc71c2e6343d3e92c421b?redirectedFromSignup=1
+https://app.powerbi.com/view?r=eyJrIjoiMjQ4Zjg2MWYtY2E2MC00OWEyLTk2ODItNjJiNjQ1NjQ3OWViIiwidCI6IjJiNDA1ZDYwLTdhMjktNDcwYS1iNzc4LTU1ZDViMjQyYTdiYSJ9&pageName=ReportSectionc71c2e6343d3e92c421b
