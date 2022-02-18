@@ -1,9 +1,13 @@
-# challegebi-imdb
-Alura Challenge BI
+<h1> challegebi-imdb</h1><br>
+<h2>Alura Challenge BI</h2><br>
 
-
-Nesta primeira etapa, o  objetivo foi ajudar a Alura Films a fazer uma pesquisa de mercado, com a finalidade de identificar a seleção ideal de elenco e produção para um novo filme.
-
-Para isso, foi trabalhar com a base que a empresa disponibilizou e explorar, tratar e transformar os dados em informações relevantes que auxiliem na tomada de decisão da empresa.
-
+<a href="https://www.alura.com.br/challenges/bi" title="Challenge">Alura curso online</a> criou um desafio desenvolvimento de um dashboard operacional de logística atendendo as necessidades da empresa.<br>
+Criação de um dashboard estratégico de marketing para monitorar uma campanha em uma empresa de e-commerce.<br>
+Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.<br>
  
+Teremos 4 desafios  
+
+<li>
+ <u><a href="https://github.com/flaakira/challegebi/tree/main/IMDB" title="Challenge">IMDB - Mergulhando no mercado cinematográfico - AluraFilms</a></u>
+ 
+</li>
