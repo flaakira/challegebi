@@ -8,4 +8,4 @@ Link para o Dashboard do primeiro desafio - filmes <a href="https://www.imdb.com
 
 Power BI dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiMjQ4Zjg2MWYtY2E2MC00OWEyLTk2ODItNjJiNjQ1NjQ3OWViIiwidCI6IjJiNDA1ZDYwLTdhMjktNDcwYS1iNzc4LTU1ZDViMjQyYTdiYSJ9&pageName=ReportSectionc71c2e6343d3e92c421b
+https://bit.ly/challenge-bi-akira
