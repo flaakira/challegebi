@@ -9,5 +9,8 @@ Teremos 4 desafios
 
 <li>
  <u><a href="https://github.com/flaakira/challegebi/tree/main/IMDB" title="Challenge">IMDB - Mergulhando no mercado cinematográfico - AluraFilms</a></u>
- 
+ <u><a href="https://github.com/flaakira/challegebi/tree/main/alurafood" title="Challenge">IMDB - Analisando o mercado Indiano de restaurantes - AluraFood</a></u>
 </li>
+ 
+ 
+ 
