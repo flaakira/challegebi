@@ -4,7 +4,7 @@ Nesta segunda etapa, o objetivo foi ajudar a Alura Food a fazer uma pesquisa de 
 
 Para isso, foi trabalhar com a base que a empresa disponibilizou atraves de uma base de dados em JSON.
 
-Os dados utilizados vieram do site <a href="https://www.zomato.com/" title="Zomato">Zomato</a>. Para isso, ela precisa de auxilio na criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.
+Os dados utilizados vieram do site <a href="https://www.zomato.com/" target="_blank">Zomato</a>. Para isso, ela precisa de auxilio na criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.
 
 
 <a href="https://bit.ly/challenge_alurafood" title="dashboard">Link para o Dashboard do segundo desafio - AluraFood </a>.
