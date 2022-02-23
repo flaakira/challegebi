@@ -11,5 +11,3 @@ Como Aprendizado tivemos acesso ao card do Trello, como forma de auxilio de apre
 <a href="https://bit.ly/challenge-bi-akira" title="dashboard">Link para o Dashboard do primeiro desafio - filmes </a>.
 
 Power BI dashboard
-
-https://bit.ly/challenge-bi-akira
